@@ -1,4 +1,4 @@
-print("Sinh viên: Nguyễn Dang Dat")
+print("Sinh viên: Nguyen Dang Dat")
 print("MSV: 245752021610124")
 
 import math
@@ -14,4 +14,5 @@ d2 = (y2 - y1) * (y2 - y1)
 res = math.sqrt(d1 + d2)
 
 print("Distance between two points:", res)
+
 
